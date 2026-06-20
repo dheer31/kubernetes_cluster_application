@@ -237,6 +237,5 @@ kubectl expose deployment amazon-app --type=NodePort --port=8080
 
 ## 📌 Author
 
- Thanu Project Setup
-
+DHEER31
 ---
